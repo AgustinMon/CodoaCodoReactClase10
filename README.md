@@ -1,2 +1,2 @@
 # CodoaCodoReactClase10
-Clase 10 componentes
+Clase 11 componentes / map / filter
