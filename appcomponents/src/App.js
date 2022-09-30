@@ -1,27 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
 import HelloWorld from './components/banner/Banner';// trae todo
 import {Banner as Saludo} from './components/banner/Banner';
+import Card from './components/tarjeta/Card';
+
+const huerta = [
+  {'nombre': 'manzana'},
+  {'nombre' : 'banana'},
+  {'nombre' : 'zanahoria'},
+  {'nombre' : 'ajo'}
+]
 
 function App() {
+
+  const elemento = huerta.filter(e => e.nombre.length>3).map(e => <Card nombre={e.nombre}/>  );
+
   return (
     <div className="App">
       <HelloWorld msg="Hola Mundo"/>
       <Saludo/>
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {elemento}
     </div>
   );
 }
