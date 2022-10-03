@@ -16,7 +16,7 @@ function App() {
 
   return (
     <div className="App">
-      <HelloWorld msg="Hola Mundo"/>
+      <HelloWorld msg="Cartas generadas con Map y Filter, clase 11"/>
       <Saludo/>
       {elemento}
     </div>
