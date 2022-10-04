@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CodoaCodoReactClase10/appcomponents/static/css/main.aff72ba4.css",
+    "main.js": "/CodoaCodoReactClase10/appcomponents/static/js/main.b5ac7c33.js",
+    "static/js/787.b727e1a2.chunk.js": "/CodoaCodoReactClase10/appcomponents/static/js/787.b727e1a2.chunk.js",
+    "index.html": "/CodoaCodoReactClase10/appcomponents/index.html",
+    "main.aff72ba4.css.map": "/CodoaCodoReactClase10/appcomponents/static/css/main.aff72ba4.css.map",
+    "main.b5ac7c33.js.map": "/CodoaCodoReactClase10/appcomponents/static/js/main.b5ac7c33.js.map",
+    "787.b727e1a2.chunk.js.map": "/CodoaCodoReactClase10/appcomponents/static/js/787.b727e1a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aff72ba4.css",
+    "static/js/main.b5ac7c33.js"
+  ]
+}
