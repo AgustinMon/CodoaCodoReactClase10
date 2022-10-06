@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CodoaCodoReactClase10/appcomponents/static/css/main.c6717ac5.css",
-    "main.js": "/CodoaCodoReactClase10/appcomponents/static/js/main.caf0a037.js",
-    "static/js/787.b727e1a2.chunk.js": "/CodoaCodoReactClase10/appcomponents/static/js/787.b727e1a2.chunk.js",
-    "index.html": "/CodoaCodoReactClase10/appcomponents/index.html",
-    "main.c6717ac5.css.map": "/CodoaCodoReactClase10/appcomponents/static/css/main.c6717ac5.css.map",
-    "main.caf0a037.js.map": "/CodoaCodoReactClase10/appcomponents/static/js/main.caf0a037.js.map",
-    "787.b727e1a2.chunk.js.map": "/CodoaCodoReactClase10/appcomponents/static/js/787.b727e1a2.chunk.js.map"
+    "main.css": "/CodoaCodoReactClase10/static/css/main.c6717ac5.css",
+    "main.js": "/CodoaCodoReactClase10/static/js/main.6376f7f6.js",
+    "static/js/787.b727e1a2.chunk.js": "/CodoaCodoReactClase10/static/js/787.b727e1a2.chunk.js",
+    "index.html": "/CodoaCodoReactClase10/index.html",
+    "main.c6717ac5.css.map": "/CodoaCodoReactClase10/static/css/main.c6717ac5.css.map",
+    "main.6376f7f6.js.map": "/CodoaCodoReactClase10/static/js/main.6376f7f6.js.map",
+    "787.b727e1a2.chunk.js.map": "/CodoaCodoReactClase10/static/js/787.b727e1a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6717ac5.css",
-    "static/js/main.caf0a037.js"
+    "static/js/main.6376f7f6.js"
   ]
 }
