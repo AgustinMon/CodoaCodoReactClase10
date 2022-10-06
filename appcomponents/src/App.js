@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <HelloWorld msg="Cartas generadas con Map y Filter, clase 11"/>
-      <HelloWorld msg="Boton para crear las cartas con hook, clase 13"/>
+      <HelloWorld msg="Boton para crear las cartas con hook, clase 12"/>
       <Saludo/>
       <Boton/>;
     </div>

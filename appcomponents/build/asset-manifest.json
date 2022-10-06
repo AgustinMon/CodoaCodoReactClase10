@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CodoaCodoReactClase10/appcomponents/static/css/main.aff72ba4.css",
-    "main.js": "/CodoaCodoReactClase10/appcomponents/static/js/main.ca5bc77f.js",
+    "main.css": "/CodoaCodoReactClase10/appcomponents/static/css/main.c6717ac5.css",
+    "main.js": "/CodoaCodoReactClase10/appcomponents/static/js/main.101be1a5.js",
     "static/js/787.b727e1a2.chunk.js": "/CodoaCodoReactClase10/appcomponents/static/js/787.b727e1a2.chunk.js",
     "index.html": "/CodoaCodoReactClase10/appcomponents/index.html",
-    "main.aff72ba4.css.map": "/CodoaCodoReactClase10/appcomponents/static/css/main.aff72ba4.css.map",
-    "main.ca5bc77f.js.map": "/CodoaCodoReactClase10/appcomponents/static/js/main.ca5bc77f.js.map",
+    "main.c6717ac5.css.map": "/CodoaCodoReactClase10/appcomponents/static/css/main.c6717ac5.css.map",
+    "main.101be1a5.js.map": "/CodoaCodoReactClase10/appcomponents/static/js/main.101be1a5.js.map",
     "787.b727e1a2.chunk.js.map": "/CodoaCodoReactClase10/appcomponents/static/js/787.b727e1a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aff72ba4.css",
-    "static/js/main.ca5bc77f.js"
+    "static/css/main.c6717ac5.css",
+    "static/js/main.101be1a5.js"
   ]
 }
