@@ -1,7 +1,7 @@
 {
   "name": "appcomponents",
   "version": "0.1.0",
-  "homepage": "https://agustinmon.github.io/CodoaCodoReactClase10/appcomponents/",
+  "homepage": "https://agustinmon.github.io/CodoaCodoReactClase10/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
