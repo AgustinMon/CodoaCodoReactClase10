@@ -6,11 +6,16 @@ export default function Boton () {
     const huerta = [
         {'nombre': 'manzana'},
         {'nombre' : 'banana'},
-        {'nombre' : 'zanahoria'},
+        {'nombre' : 'pera'},
+        {'nombre' : 'tomate'},
+        {'nombre' : 'uva'},
+        {'nombre' : 'kiwi'},
+        {'nombre' : 'melon'},
+        {'nombre' : 'sandia'},
         {'nombre' : 'ajo'}
       ]
 
-    const [valor, setCount] = useState(0);
+    const [valor, setCount] = useState(3);
 
     const elemento = huerta.filter(e => e.nombre.length>valor).map(e => <Card nombre={e.nombre}/>  );
     console.log(elemento);
